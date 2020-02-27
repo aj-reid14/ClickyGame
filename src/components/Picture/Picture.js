@@ -3,7 +3,9 @@ import "./Picture.css";
 
 const Picture = (props) => (
     <div className="pic">
-        <img alt={props.name} src={props.image} />
+        <div className="color">
+            <img alt={props.name} src={props.image} />
+        </div>
     </div>
 );
 
