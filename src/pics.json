@@ -3,73 +3,73 @@
       "id": 1,
       "name": "Red",
       "image": "https://media.ifrc.org/ifrc/wp-content/uploads/sites/5/2017/08/2017-twitter-profile-image-not-a-target.png",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 2,
       "name": "Blue",
       "image": "https://images.homedepot-static.com/productImages/86d6ca9c-2317-4468-91d3-ed063f8120b0/svn/spectrum-blue-matte-formica-laminate-sheets-008511258408000-64_400_compressed.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 3,
       "name": "Green",
       "image": "https://twibbon.blob.core.windows.net/twibbon/2017/35/17cfb6fd-0960-452a-852a-2c0ddeb2c5a5.png",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 4,
       "name": "Yellow",
       "image": "https://www.onlinefabricstore.net/images/product-images/lg/K001-1089_1.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 5,
       "name": "Orange",
       "image": "https://www.beautycolorcode.com/c93413-400x400.png",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 6,
       "name": "Black",
       "image": "https://images.homedepot-static.com/productImages/5c5fed4a-8e18-4942-b3a7-bf58f4e55243/svn/matte-black-daltile-ceramic-tile-k711441p1-64_400_compressed.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 7,
       "name": "Grey",
       "image": "https://www.beautycolorcode.com/747880-400x400.png",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 8,
       "name": "Purple",
       "image": "https://pbs.twimg.com/profile_images/812279443347673089/7aYq5LMF.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 9,
       "name": "Pink",
       "image": "https://www.beautycolorcode.com/ffd1dc-400x400.png",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 10,
       "name": "Cyan",
       "image": "https://i.pinimg.com/originals/05/df/fd/05dffdd7d22da07e22f3e9b960fdb88f.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 11,
       "name": "Tan",
       "image": "https://moondecorative.com/wp-content/uploads/product_images/product-18602-1538596539-SOP-750-55-1-400x400.jpg",
-      "count": 0
+      "clicked": false
     },
     {
       "id": 12,
       "name": "Magenta",
       "image": "https://www.beautycolorcode.com/e496c8-400x400.png",
-      "count": 0
+      "clicked": false
     }
   ]
   
