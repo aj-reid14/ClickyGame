@@ -1,8 +1,13 @@
-import React from "react";
-import PortfolioContainer from "./components/PortfolioContainer";
+import React, {Component} from "react";
+import pics from "./pics.json";
 
-function App() {
-  return <PortfolioContainer />;
+class App extends Component {
+
+  state = {
+    pics,
+    score: 0
+  }
+
 }
 
 export default App;
