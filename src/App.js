@@ -1,4 +1,5 @@
 import React, { Component } from "react";
+import "./app.css"
 import Picture from "./components/Picture";
 import TitleBar from "./components/TitleBar";
 import Wrapper from "./components/Wrapper";
